@@ -1,0 +1,8 @@
+com_codegym_m4_w2_b8/config/AppInit.java
+ com_codegym_m4_w2_b8.config.AppInit
+com_codegym_m4_w2_b8/config/AppConfiguration.java
+ com_codegym_m4_w2_b8.config.AppConfiguration
+com_codegym_m4_w2_b8/model/PhoneNumber.java
+ com_codegym_m4_w2_b8.model.PhoneNumber
+com_codegym_m4_w2_b8/controller/PhoneController.java
+ com_codegym_m4_w2_b8.controller.PhoneController
